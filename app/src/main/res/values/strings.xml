@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shopping Cart</string>
+    <string-array name="pizza_names">
+        <item>Texas Barbeque Chicken</item>
+        <item>Ultimate Beef Pepperoni</item>
+        <item>African Peri Peri</item>
+        <item>Smoky Chicken</item>
+        <item>Chicken Saucy Tornado</item>
+        <item>Farmhouse</item>
+        <item>Sausage and Pepperoni</item>
+        <item>American Favourite Feast</item>
+
+    </string-array>
+</resources>
